@@ -1,5 +1,5 @@
 # DataViz
-This code is to perform exploratory and explanatory data analysis on a crime data.  
+This code is to perform exploratory and explanatory data analysis on a crime data using Bokeh and Seaborn.  
 The crime data represents the number of reported crimes (per 100,000 population) across seven categories of crimes for each state in the US.
 
 |State|Murder|Rape|Robbery|Aggravated Assault|Burglary|Larceny Theft|Motor Vehicle Theft|
@@ -14,4 +14,8 @@ The crime data represents the number of reported crimes (per 100,000 population)
 
 ## Explanatory Data Visulization
 * Stacked bar chart
+This plots the crime rates for each state
+![](images/crime_stacked_plot.png)
+
 * Maps: map of crime rate across US states
+![](images/map_state_crime_rates.png)
