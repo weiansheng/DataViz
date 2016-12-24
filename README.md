@@ -1,5 +1,5 @@
 # DataViz
-This code is to analyze exploratory and explanatory data analysis on the crime data.  
+This code is to perform exploratory and explanatory data analysis on a crime data.  
 The crime data represents the number of reported crimes (per 100,000 population) across seven categories of crimes for each state in the US.
 
 |State|Murder|Rape|Robbery|Aggravated Assault|Burglary|Larceny Theft|Motor Vehicle Theft|
@@ -12,6 +12,6 @@ The crime data represents the number of reported crimes (per 100,000 population)
 * Histogram for each crimes
 * Box plot and Violin plot
 
-## Explanatory Data Visulization 
-* Stacked bar chart 
-* Maps: map of crime rate across US states 
+## Explanatory Data Visulization
+* Stacked bar chart
+* Maps: map of crime rate across US states
